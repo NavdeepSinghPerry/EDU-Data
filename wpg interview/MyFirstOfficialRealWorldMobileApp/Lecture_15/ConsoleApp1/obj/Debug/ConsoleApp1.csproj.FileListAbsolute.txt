@@ -1,0 +1,87 @@
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\BasicBackgrounf\ConsoleApp1\bin\Debug\NLog.config
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\BasicBackgrounf\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\BasicBackgrounf\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\BasicBackgrounf\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\BasicBackgrounf\ConsoleApp1\bin\Debug\NLog.dll
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\BasicBackgrounf\ConsoleApp1\bin\Debug\NLog.xml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\BasicBackgrounf\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\BasicBackgrounf\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\BasicBackgrounf\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\BasicBackgrounf\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\BasicBackgrounf\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_8\ConsoleApp1\bin\Debug\NLog.config
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_8\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_8\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_8\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_8\ConsoleApp1\bin\Debug\NLog.dll
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_8\ConsoleApp1\bin\Debug\NLog.xml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_8\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_8\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_8\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_8\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_8\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_10\ConsoleApp1\bin\Debug\NLog.config
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_10\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_10\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_10\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_10\ConsoleApp1\bin\Debug\NLog.dll
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_10\ConsoleApp1\bin\Debug\NLog.xml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_10\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_10\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_10\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_10\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_10\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\ConsoleApp1\bin\Debug\NLog.config
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\ConsoleApp1\bin\Debug\NLog.dll
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\ConsoleApp1\bin\Debug\NLog.xml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\ConsoleApp1\bin\Debug\NLog.config
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\ConsoleApp1\bin\Debug\NLog.dll
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\ConsoleApp1\bin\Debug\NLog.xml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\ConsoleApp1\bin\Debug\NLog.config
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\ConsoleApp1\bin\Debug\NLog.dll
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\ConsoleApp1\bin\Debug\NLog.xml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\ConsoleApp1\bin\Debug\NLog.config
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\ConsoleApp1\bin\Debug\NLog.dll
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\ConsoleApp1\bin\Debug\NLog.xml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\ConsoleApp1\bin\Debug\NLog.config
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\ConsoleApp1\bin\Debug\NLog.dll
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\ConsoleApp1\bin\Debug\NLog.xml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

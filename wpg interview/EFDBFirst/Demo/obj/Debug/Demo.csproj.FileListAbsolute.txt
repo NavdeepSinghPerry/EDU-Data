@@ -1,0 +1,11 @@
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\EFDBFirst\Demo\bin\Debug\Demo.dll.config
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\EFDBFirst\Demo\bin\Debug\Demo.dll
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\EFDBFirst\Demo\bin\Debug\Demo.pdb
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\EFDBFirst\Demo\bin\Debug\EntityFramework.dll
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\EFDBFirst\Demo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\EFDBFirst\Demo\bin\Debug\EntityFramework.xml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\EFDBFirst\Demo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\EFDBFirst\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\EFDBFirst\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\EFDBFirst\Demo\obj\Debug\Demo.dll
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\EFDBFirst\Demo\obj\Debug\Demo.pdb

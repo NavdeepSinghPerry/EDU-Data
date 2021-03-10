@@ -1,0 +1,89 @@
+﻿<UserControl x:Class="BasicBackgrounf.ChatListItemControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:BasicBackgrounf"
+             mc:Ignorable="d" 
+             Height="60"
+             d:DesignHeight="60" d:DesignWidth="300">
+
+    <UserControl.Resources>
+        <Style x:Key="MainContainer" TargetType="{x:Type ContentControl}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type ContentControl}">
+                        <Border x:Name="BackGround" Background="{StaticResource BackGroundColorWhiteBrush}">
+                        <Grid  x:Name="Container" Background="{StaticResource BackGroundColorTransparentBrush}" d:DataContext="{x:Static local:ChatListItemDesignModel.Instance}">
+
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+
+                            <Border Grid.Column="0" 
+                                     Width="5" 
+                                    Visibility="{Binding IsNewMessage,Converter={local:BooleanToVisiblityConverter},ConverterParameter=True}"
+                                     Background="{StaticResource BackGroundColorRedBrush}"/>
+                            <Border Grid.Column="1" Padding="8">
+                                <Border Width="{Binding ActualHeight, RelativeSource={RelativeSource Self}}"
+                        CornerRadius="{Binding ActualHeight, RelativeSource={RelativeSource Self}}"
+                        Background="{Binding ProfilePictureRGB,Converter={local:StringToColorValueConverter}}">
+
+                                    <TextBlock FontFamily="{StaticResource LatoSubham}" 
+                               FontSize="{StaticResource FontSizeLarge}" 
+                               VerticalAlignment="Center" 
+                               HorizontalAlignment="Center"
+                              Text="{Binding InitialProfileText}"
+                           />
+                                </Border>
+                            </Border>
+                            <Border Grid.Column="2" Padding="8">
+
+                                <StackPanel>
+                                    <TextBlock FontSize="{StaticResource FontSizeRegular}" 
+                               Foreground="{StaticResource BackGroundColorBlueBrush}"
+                               Text="{Binding Name}" />
+                                    <TextBlock FontSize="{StaticResource FontSizeSmaller}" 
+                               Foreground="Gray"
+                               Text="{Binding Message}"
+                               TextTrimming="CharacterEllipsis"
+                               />
+                                </StackPanel>
+                            </Border>
+                        </Grid>
+                       </Border>
+                        <ControlTemplate.Triggers>
+                            <EventTrigger RoutedEvent="MouseEnter">
+                                <BeginStoryboard>
+                                    <Storyboard>
+
+                                        <ColorAnimation To="{StaticResource BackGroundColorVeryLightBlue}" Duration="0:0:0.3"  Storyboard.TargetName="Container" Storyboard.TargetProperty="Background.Color"/>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger>
+
+                            <EventTrigger RoutedEvent="MouseLeave">
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <ColorAnimation To="{StaticResource BackGroundColorTransparent}" Duration="0:0:0.3"  Storyboard.TargetName="Container" Storyboard.TargetProperty="Background.Color"/>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger>
+
+                            <DataTrigger Binding="{Binding IsSelected}" Value="True">
+                                <Setter Property="Background" TargetName="BackGround" Value="{StaticResource BackGroundColorVeryLightBlueBrush}"/>
+                            </DataTrigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                   
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </UserControl.Resources>
+
+    <ContentControl Style="{StaticResource  MainContainer}"/>
+
+
+</UserControl>

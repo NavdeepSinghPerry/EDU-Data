@@ -1,0 +1,199 @@
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\BasicBackgrounf\obj\Debug\LetsMeet.csprojAssemblyReference.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\BasicBackgrounf\obj\Debug\Controls\ChatListControl.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\BasicBackgrounf\obj\Debug\Controls\ChatListItemControl.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\BasicBackgrounf\obj\Debug\Controls\UserMenuControl.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\BasicBackgrounf\obj\Debug\Pages\RegisterPage.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\BasicBackgrounf\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\BasicBackgrounf\obj\Debug\App.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\BasicBackgrounf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\BasicBackgrounf\obj\Debug\LetsMeet_MarkupCompile.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\BasicBackgrounf\obj\Debug\LetsMeet_MarkupCompile.lref
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\BasicBackgrounf\bin\Debug\LetsMeet.exe.config
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\BasicBackgrounf\bin\Debug\LetsMeet.exe
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\BasicBackgrounf\bin\Debug\LetsMeet.pdb
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\BasicBackgrounf\bin\Debug\LetsMeet.Core.dll
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\BasicBackgrounf\bin\Debug\Ninject.dll
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\BasicBackgrounf\bin\Debug\LetsMeet.Core.pdb
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\BasicBackgrounf\bin\Debug\Ninject.xml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\BasicBackgrounf\obj\Debug\MainWindow.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\BasicBackgrounf\obj\Debug\App.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\BasicBackgrounf\obj\Debug\Controls\ChatListControl.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\BasicBackgrounf\obj\Debug\Controls\ChatListItemControl.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\BasicBackgrounf\obj\Debug\Controls\UserMenuControl.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\BasicBackgrounf\obj\Debug\MainWindow.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\BasicBackgrounf\obj\Debug\Pages\RegisterPage.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\BasicBackgrounf\obj\Debug\Pages\LoginPage.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\BasicBackgrounf\obj\Debug\Styles\Fonts.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\BasicBackgrounf\obj\Debug\Styles\Texts.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\BasicBackgrounf\obj\Debug\Styles\Buttons.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\BasicBackgrounf\obj\Debug\Styles\Colors.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\BasicBackgrounf\obj\Debug\LetsMeet.g.resources
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\BasicBackgrounf\obj\Debug\LetsMeet.Properties.Resources.resources
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\BasicBackgrounf\obj\Debug\LetsMeet.csproj.GenerateResource.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\BasicBackgrounf\obj\Debug\LetsMeet.csproj.CoreCompileInputs.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\BasicBackgrounf\obj\Debug\LetsMeet.csproj.CopyComplete
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\BasicBackgrounf\obj\Debug\LetsMeet.exe
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_11\BasicBackgrounf\obj\Debug\LetsMeet.pdb
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\BasicBackgrounf\bin\Debug\LetsMeet.exe.config
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\BasicBackgrounf\bin\Debug\LetsMeet.exe
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\BasicBackgrounf\bin\Debug\LetsMeet.pdb
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\BasicBackgrounf\bin\Debug\LetsMeet.Core.dll
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\BasicBackgrounf\bin\Debug\Ninject.dll
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\BasicBackgrounf\bin\Debug\LetsMeet.Core.pdb
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\BasicBackgrounf\bin\Debug\Ninject.xml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\BasicBackgrounf\obj\Debug\LetsMeet.csprojAssemblyReference.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\BasicBackgrounf\obj\Debug\Controls\ChatListControl.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\BasicBackgrounf\obj\Debug\Controls\ChatListItemControl.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\BasicBackgrounf\obj\Debug\Controls\UserMenuControl.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\BasicBackgrounf\obj\Debug\MainWindow.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\BasicBackgrounf\obj\Debug\Pages\RegisterPage.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\BasicBackgrounf\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\BasicBackgrounf\obj\Debug\App.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\BasicBackgrounf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\BasicBackgrounf\obj\Debug\LetsMeet_MarkupCompile.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\BasicBackgrounf\obj\Debug\LetsMeet_MarkupCompile.lref
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\BasicBackgrounf\obj\Debug\App.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\BasicBackgrounf\obj\Debug\Controls\ChatListControl.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\BasicBackgrounf\obj\Debug\Controls\ChatListItemControl.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\BasicBackgrounf\obj\Debug\Controls\UserMenuControl.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\BasicBackgrounf\obj\Debug\MainWindow.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\BasicBackgrounf\obj\Debug\Pages\RegisterPage.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\BasicBackgrounf\obj\Debug\Pages\LoginPage.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\BasicBackgrounf\obj\Debug\Styles\Fonts.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\BasicBackgrounf\obj\Debug\Styles\Texts.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\BasicBackgrounf\obj\Debug\Styles\Buttons.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\BasicBackgrounf\obj\Debug\Styles\Colors.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\BasicBackgrounf\obj\Debug\LetsMeet.g.resources
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\BasicBackgrounf\obj\Debug\LetsMeet.Properties.Resources.resources
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\BasicBackgrounf\obj\Debug\LetsMeet.csproj.GenerateResource.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\BasicBackgrounf\obj\Debug\LetsMeet.csproj.CoreCompileInputs.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\BasicBackgrounf\obj\Debug\LetsMeet.csproj.CopyComplete
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\BasicBackgrounf\obj\Debug\LetsMeet.exe
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_12\BasicBackgrounf\obj\Debug\LetsMeet.pdb
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\bin\Debug\LetsMeet.exe.config
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\bin\Debug\LetsMeet.exe
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\bin\Debug\LetsMeet.pdb
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\bin\Debug\LetsMeet.Core.dll
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\bin\Debug\Ninject.dll
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\bin\Debug\LetsMeet.Core.pdb
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\bin\Debug\Ninject.xml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\obj\Debug\LetsMeet.csprojAssemblyReference.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\obj\Debug\Controls\ChatListControl.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\obj\Debug\Controls\ChatListItemControl.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\obj\Debug\Controls\UserMenuControl.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\obj\Debug\MainWindow.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\obj\Debug\Pages\RegisterPage.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\obj\Debug\App.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\obj\Debug\LetsMeet_MarkupCompile.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\obj\Debug\LetsMeet_MarkupCompile.lref
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\obj\Debug\App.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\obj\Debug\Controls\ChatListControl.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\obj\Debug\Controls\ChatListItemControl.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\obj\Debug\Controls\UserMenuControl.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\obj\Debug\MainWindow.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\obj\Debug\Pages\RegisterPage.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\obj\Debug\Pages\LoginPage.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\obj\Debug\Styles\Fonts.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\obj\Debug\Styles\Texts.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\obj\Debug\Styles\Buttons.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\obj\Debug\Styles\Colors.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\obj\Debug\LetsMeet.g.resources
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\obj\Debug\LetsMeet.Properties.Resources.resources
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\obj\Debug\LetsMeet.csproj.GenerateResource.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\obj\Debug\LetsMeet.csproj.CoreCompileInputs.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\obj\Debug\LetsMeet.csproj.CopyComplete
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\obj\Debug\LetsMeet.exe
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\obj\Debug\LetsMeet.pdb
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\obj\Debug\Pages\Chat\ChatPage.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\obj\Debug\Pages\Chat\ChatPage.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\obj\Debug\Controls\PageHost.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14\BasicBackgrounf\obj\Debug\Controls\PageHost.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\bin\Debug\LetsMeet.exe.config
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\bin\Debug\LetsMeet.exe
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\bin\Debug\LetsMeet.pdb
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\bin\Debug\LetsMeet.Core.dll
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\bin\Debug\Ninject.dll
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\bin\Debug\LetsMeet.Core.pdb
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\bin\Debug\Ninject.xml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\LetsMeet.csprojAssemblyReference.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\Controls\ChatListControl.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\Controls\ChatListItemControl.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\Controls\ChatMessageControl.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\Controls\ChatMessageItemControl.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\Controls\UserMenuControl.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\MainWindow.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\Pages\Chat\ChatPage.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\Controls\PageHost.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\Pages\RegisterPage.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\App.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\LetsMeet_MarkupCompile.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\LetsMeet_MarkupCompile.lref
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\App.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\Controls\ChatListControl.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\Controls\ChatListItemControl.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\Controls\ChatMessageControl.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\Controls\ChatMessageItemControl.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\Controls\UserMenuControl.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\MainWindow.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\Pages\Chat\ChatPage.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\Controls\PageHost.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\Pages\RegisterPage.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\Pages\LoginPage.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\Styles\Fonts.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\Styles\Texts.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\Styles\Buttons.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\Styles\Colors.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\LetsMeet.g.resources
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\LetsMeet.Properties.Resources.resources
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\LetsMeet.csproj.GenerateResource.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\LetsMeet.csproj.CoreCompileInputs.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\LetsMeet.csproj.CopyComplete
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\LetsMeet.exe
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2\BasicBackgrounf\obj\Debug\LetsMeet.pdb
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\bin\Debug\LetsMeet.exe.config
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\bin\Debug\LetsMeet.exe
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\bin\Debug\LetsMeet.pdb
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\bin\Debug\LetsMeet.Core.dll
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\bin\Debug\Ninject.dll
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\bin\Debug\LetsMeet.Core.pdb
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\bin\Debug\Ninject.xml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\obj\Debug\LetsMeet.csprojResolveAssemblyReference.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\obj\Debug\Controls\Chat\ChatList\ChatListControl.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\obj\Debug\Controls\Chat\ChatList\ChatListItemControl.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\obj\Debug\Controls\Chat\ChatMessage\ChatMessageControl.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\obj\Debug\Controls\Chat\ChatMessage\ChatMessageItemControl.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\obj\Debug\Controls\Menu\UserMenuControl.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\obj\Debug\MainWindow.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\obj\Debug\Pages\Chat\ChatPage.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\obj\Debug\Controls\PagesManagement\PageHost.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\obj\Debug\Pages\RegisterPage.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\obj\Debug\App.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\obj\Debug\LetsMeet_MarkupCompile.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\obj\Debug\LetsMeet_MarkupCompile.lref
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\obj\Debug\App.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\obj\Debug\Controls\Chat\ChatList\ChatListControl.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\obj\Debug\Controls\Chat\ChatList\ChatListItemControl.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\obj\Debug\Controls\Chat\ChatMessage\ChatMessageControl.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\obj\Debug\Controls\Chat\ChatMessage\ChatMessageItemControl.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\obj\Debug\Controls\Menu\UserMenuControl.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\obj\Debug\MainWindow.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\obj\Debug\Pages\Chat\ChatPage.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\obj\Debug\Controls\PagesManagement\PageHost.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\obj\Debug\Pages\RegisterPage.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\obj\Debug\Pages\LoginPage.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\obj\Debug\Styles\Fonts.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\obj\Debug\Styles\Texts.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\obj\Debug\Styles\Buttons.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\obj\Debug\Styles\Colors.baml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\obj\Debug\LetsMeet.g.resources
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\obj\Debug\LetsMeet.Properties.Resources.resources
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\obj\Debug\LetsMeet.csproj.GenerateResource.Cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\obj\Debug\LetsMeet.csproj.CoreCompileInputs.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\obj\Debug\LetsMeet.exe
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\MyFirstOfficialRealWorldMobileApp\Lecture_14_2 - Copy\BasicBackgrounf\obj\Debug\LetsMeet.pdb

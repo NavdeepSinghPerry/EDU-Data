@@ -1,0 +1,22 @@
+C:\Users\Ns67750\OneDrive-Deere&Co\OneDrive - Deere & Co\Desktop\EntityFramework\EFDBFirst\DAL\bin\Debug\DAL.dll.config
+C:\Users\Ns67750\OneDrive-Deere&Co\OneDrive - Deere & Co\Desktop\EntityFramework\EFDBFirst\DAL\bin\Debug\DAL.dll
+C:\Users\Ns67750\OneDrive-Deere&Co\OneDrive - Deere & Co\Desktop\EntityFramework\EFDBFirst\DAL\bin\Debug\DAL.pdb
+C:\Users\Ns67750\OneDrive-Deere&Co\OneDrive - Deere & Co\Desktop\EntityFramework\EFDBFirst\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Ns67750\OneDrive-Deere&Co\OneDrive - Deere & Co\Desktop\EntityFramework\EFDBFirst\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ns67750\OneDrive-Deere&Co\OneDrive - Deere & Co\Desktop\EntityFramework\EFDBFirst\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Ns67750\OneDrive-Deere&Co\OneDrive - Deere & Co\Desktop\EntityFramework\EFDBFirst\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ns67750\OneDrive-Deere&Co\OneDrive - Deere & Co\Desktop\EntityFramework\EFDBFirst\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Ns67750\OneDrive-Deere&Co\OneDrive - Deere & Co\Desktop\EntityFramework\EFDBFirst\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ns67750\OneDrive-Deere&Co\OneDrive - Deere & Co\Desktop\EntityFramework\EFDBFirst\DAL\obj\Debug\DAL.dll
+C:\Users\Ns67750\OneDrive-Deere&Co\OneDrive - Deere & Co\Desktop\EntityFramework\EFDBFirst\DAL\obj\Debug\DAL.pdb
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\EFDBFirst\DAL\bin\Debug\DAL.dll.config
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\EFDBFirst\DAL\bin\Debug\DAL.dll
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\EFDBFirst\DAL\bin\Debug\DAL.pdb
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\EFDBFirst\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\EFDBFirst\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\EFDBFirst\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\EFDBFirst\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\EFDBFirst\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\EFDBFirst\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\EFDBFirst\DAL\obj\Debug\DAL.dll
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\EFDBFirst\DAL\obj\Debug\DAL.pdb

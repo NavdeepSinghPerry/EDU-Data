@@ -1,0 +1,26 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:BasicBacgroundWindow">
+    <Color x:Key="transparentColor">#00FFFFFF</Color>
+    <SolidColorBrush x:Key="transparentColorBrush" Color="Transparent"/>
+
+    <Color x:Key="BackGroundColorLightGray">#d9d9d9</Color>
+    <SolidColorBrush  x:Key="BackGroundColorLightGrayBrush" Color="{StaticResource BackGroundColorLightGray}"/>
+
+    <Color x:Key="BackGroundColorWhite">#ffffff</Color>
+    <SolidColorBrush  x:Key="BackGroundColorWhiteBrush" Color="{StaticResource BackGroundColorWhite}"/>
+
+    <Color x:Key="BackGroundColorRed">#ff0000</Color>
+    <SolidColorBrush  x:Key="BackGroundColorRedBrush" Color="{StaticResource BackGroundColorRed}"/>
+
+    <Color x:Key="BackGroundColorYellow">#ffc34d</Color>
+    <SolidColorBrush  x:Key="BackGroundColorYellowBrush" Color="{StaticResource BackGroundColorYellow}"/>
+
+    <Color x:Key="BackGroundColorGreen">#009933</Color>
+    <SolidColorBrush  x:Key="BackGroundColorGreenBrush" Color="{StaticResource BackGroundColorGreen}"/>
+
+    <Color x:Key="WordBlue">#3099c5</Color>
+    <SolidColorBrush x:Key="WordBlueBrush" Color="{StaticResource WordBlue}" />
+
+
+</ResourceDictionary>

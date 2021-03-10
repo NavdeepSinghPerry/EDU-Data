@@ -1,0 +1,6 @@
+Program.Main This is a Trace message
+Program.Main This is a Debug message
+Program.Main This is an Info message
+Program.Main Warn AAA
+Program.Main Error AAA
+Program.Main Fatal AAA

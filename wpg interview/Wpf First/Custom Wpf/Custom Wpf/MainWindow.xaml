@@ -1,0 +1,74 @@
+﻿<Window x:Class="Custom_Wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Custom_Wpf"
+        mc:Ignorable="d"
+        Icon="Images/icon.ico"
+        AllowsTransparency="True"
+        WindowStartupLocation="CenterScreen"
+        Title="MainWindow" Height="350" WindowStyle="None" Width="525">
+    <!--<StackPanel>
+       
+        <TextBlock HorizontalAlignment="Center" Text="Welcome John Deere" FontFamily="{StaticResource LatoThin}"/>
+        <TextBlock Text="{Binding Test }"/>
+       
+        
+        
+
+    </StackPanel> /-->
+    <Window.Resources>
+        <Style TargetType="{x:Type local:MainWindow}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Window}">
+                        <Border  x:Name="Container" Padding="{Binding OuterMarginSizeThickness, FallbackValue=10}" >
+                            <Grid >
+                                <Border CornerRadius="{Binding WindowCornerRadius}"
+                                        Background="{StaticResource ForegroundLightBrush}"
+                                        >
+                                    <Border.Effect>
+                                        <DropShadowEffect ShadowDepth="0" Opacity="0.5"></DropShadowEffect>
+                                    </Border.Effect>
+                                </Border>
+
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="{Binding TitleHeightGridLength}"/>
+                                        <RowDefinition Height="Auto"></RowDefinition>
+                                        <RowDefinition Height="*"></RowDefinition>
+                                    </Grid.RowDefinitions>
+                                    <Grid Grid.Column="0"  Panel.ZIndex="1">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="Auto"/>
+                                            <ColumnDefinition Width="*"/>
+                                            <ColumnDefinition Width="Auto"/>
+
+                                        </Grid.ColumnDefinitions>
+
+                                        <Button Grid.Column="0" Style="{StaticResource systemIconButton}"  Command="{Binding MenuCommand}">
+                                            <Image Source="/Images/logo-small.png"></Image>
+                                        </Button>
+                                        
+                                    </Grid>
+                                </Grid>
+                            </Grid> 
+                        </Border>  
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <WindowChrome.WindowChrome>
+        <WindowChrome
+          ResizeBorderThickness="{Binding ResizeBorderThickness}"  
+            CaptionHeight="{Binding TitleHeight}"
+            GlassFrameThickness="200"
+            />
+
+    </WindowChrome.WindowChrome>
+    <Grid Background="ForestGreen">
+        
+    </Grid>
+</Window>

@@ -1,0 +1,26 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:LetsConnectApp">
+
+    <Color x:Key="BackGroundColorLightGray">#d9d9d9</Color>
+    <SolidColorBrush  x:Key="BackGroundColorLightGrayBrush" Color="{StaticResource BackGroundColorLightGray}"/>
+
+    <Color x:Key="BackGroundColorTransparent">#00FFFFFF</Color>
+    <SolidColorBrush  x:Key="BackGroundColorTransparentBrush" Color="{StaticResource BackGroundColorTransparent}"/>
+
+    <Color x:Key="BackGroundColorRed">#ff0000</Color>
+    <SolidColorBrush  x:Key="BackGroundColorRedBrush" Color="{StaticResource BackGroundColorRed}"/>
+ 
+    <Color x:Key="BackGroundColorBlue">#1aa3ff</Color>
+    <SolidColorBrush  x:Key="BackGroundColorBlueBrush" Color="{StaticResource BackGroundColorBlue}"/>
+
+    <Color x:Key="BackGroundColorYellow">#ffc34d</Color>
+    <SolidColorBrush  x:Key="BackGroundColorYellowBrush" Color="{StaticResource BackGroundColorYellow}"/>
+
+    <Color x:Key="BackGroundColorGreen">#009933</Color>
+    <SolidColorBrush  x:Key="BackGroundColorGreenBrush" Color="{StaticResource BackGroundColorGreen}"/>
+
+    
+
+
+</ResourceDictionary>

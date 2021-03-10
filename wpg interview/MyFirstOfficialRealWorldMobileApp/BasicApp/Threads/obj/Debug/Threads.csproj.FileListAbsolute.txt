@@ -1,0 +1,6 @@
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\BasicApp\Threads\bin\Debug\Threads.exe.config
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\BasicApp\Threads\bin\Debug\Threads.exe
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\BasicApp\Threads\bin\Debug\Threads.pdb
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\BasicApp\Threads\obj\Debug\Threads.csproj.CoreCompileInputs.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\BasicApp\Threads\obj\Debug\Threads.exe
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\BasicApp\Threads\obj\Debug\Threads.pdb

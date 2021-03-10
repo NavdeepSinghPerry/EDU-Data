@@ -1,0 +1,63 @@
+﻿<Page x:Class="BasicBacgroundWindow.LoginPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:BasicBacgroundWindow"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="LoginPage">
+
+
+    <Grid Background="{StaticResource WordBlueBrush}">
+        <Border>
+            <Border.Background>
+                <ImageBrush ImageSource="/Images/Background/emoji-background.png"/>
+            </Border.Background>
+        </Border>
+
+        <Border 
+                Padding="0 50 0 0"
+                Width="300"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                Background="{StaticResource BackGroundColorWhiteBrush}"
+                CornerRadius="10">
+            <StackPanel Margin="20 0 20 0">
+                <TextBlock Foreground="{StaticResource WordBlueBrush}"
+                       FontFamily="{StaticResource LatoBold}"
+                       FontSize="{StaticResource FontSizeXLarge}"
+                       FontWeight="{StaticResource BoldFont}"
+                      
+                       Text="Sign Up"/>
+
+                <TextBlock Foreground="{StaticResource BackGroundColorLightGrayBrush}"
+                       FontFamily="{StaticResource LatoLight}"
+                       FontSize="{StaticResource FontSizeLarge}"
+                       FontWeight="{StaticResource BoldFont}"
+                       Text="It is about to get fun"/>
+
+                
+                <Border BorderThickness="0 0 0 1"
+                        BorderBrush="{StaticResource WordBlueBrush}"
+                        Margin="0 25 0 25">
+                    <TextBox Style="{StaticResource TaggedTextBox}" Tag="EMAIL"></TextBox>
+                </Border>
+                <Border BorderThickness="0 0 0 1"
+                        BorderBrush="{StaticResource WordBlueBrush}"
+                        Margin="0 5 0 30">
+                    <PasswordBox 
+                                 local:PasswordAttachedProperty.MonitorPassword="True"
+                                 FontSize="{StaticResource FontSizeXLarge}" 
+                                 HorizontalAlignment="Center" 
+                                 BorderThickness="0" 
+                                 Style="{StaticResource TaggedPasswordBox}"
+                                 Tag="Password"
+                                 ></PasswordBox>
+                </Border>
+                <Button Margin="0 25 0 35" Style="{StaticResource RoundButton}">Login</Button>
+
+            </StackPanel>
+        </Border>
+    </Grid>
+</Page>

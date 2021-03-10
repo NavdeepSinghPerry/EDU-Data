@@ -1,0 +1,7 @@
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\Linq Training\LinqPratice\LinqPratice\bin\Debug\LinqPratice.exe.config
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\Linq Training\LinqPratice\LinqPratice\bin\Debug\LinqPratice.exe
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\Linq Training\LinqPratice\LinqPratice\bin\Debug\LinqPratice.pdb
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\Linq Training\LinqPratice\LinqPratice\obj\Debug\LinqPratice.csprojResolveAssemblyReference.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\Linq Training\LinqPratice\LinqPratice\obj\Debug\LinqPratice.csproj.CoreCompileInputs.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\Linq Training\LinqPratice\LinqPratice\obj\Debug\LinqPratice.exe
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\Linq Training\LinqPratice\LinqPratice\obj\Debug\LinqPratice.pdb

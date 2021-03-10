@@ -1,0 +1,11 @@
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\EFDBFirst\DemoSubham\bin\Debug\DemoSubham.dll.config
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\EFDBFirst\DemoSubham\bin\Debug\DemoSubham.dll
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\EFDBFirst\DemoSubham\bin\Debug\DemoSubham.pdb
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\EFDBFirst\DemoSubham\bin\Debug\EntityFramework.dll
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\EFDBFirst\DemoSubham\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\EFDBFirst\DemoSubham\bin\Debug\EntityFramework.xml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\EFDBFirst\DemoSubham\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\EFDBFirst\DemoSubham\obj\Debug\DemoSubham.csprojResolveAssemblyReference.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\EFDBFirst\DemoSubham\obj\Debug\DemoSubham.csproj.CoreCompileInputs.cache
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\EFDBFirst\DemoSubham\obj\Debug\DemoSubham.dll
+C:\Users\Ns67750\Downloads\HigherEducation\wpg interview\EFDBFirst\DemoSubham\obj\Debug\DemoSubham.pdb
